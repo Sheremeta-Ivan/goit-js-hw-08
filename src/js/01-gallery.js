@@ -28,7 +28,6 @@ function createGalleryMarkup(items) {
     .join('');
 }
 
-// const addGalleryMarkup = createGalleryMarkup(galleryItems);
 
 galleryListItems.insertAdjacentHTML(
   'beforeend',
